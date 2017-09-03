@@ -1,5 +1,5 @@
 # tic-tac-toe
 
-Input co-ordinates to place tokens. Get three in a row and you win.
+<a href="https://repl.it/KXtK">Play here</a>
 
-Play at: https://repl.it/KXtK
+Input co-ordinates to place tokens. Get three in a row and you win.
